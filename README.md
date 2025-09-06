@@ -28,13 +28,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroPimpao&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<h2 align="left">Commits</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/PedroPimpao/PedroPimpao/output/snake.svg" alt="Snake animation" />
-
-###
 
