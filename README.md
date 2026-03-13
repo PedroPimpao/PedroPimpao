@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pedro Pimpão, tenho 20 anos e sou natural do Rio de Janeiro (RJ). 
+Me chamo Pedro Pimpão, 20 anos e sou natural do Rio de Janeiro (RJ). 
 Estou cursando Sistemas de Informação (5° Período) na Universidade Candido Mendes (UCAM).
 
 <h2 align="left">Tech Stack</h2>
@@ -20,7 +20,6 @@ Estou cursando Sistemas de Informação (5° Período) na Universidade Candido M
 <h3>Backend</h3>
 <div>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30" alt="NodeJS" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="TypeScript" />
     <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" height="30" alt="PrismaORM" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="PostgreSQL" />
 </div>
@@ -32,22 +31,16 @@ Estou cursando Sistemas de Informação (5° Período) na Universidade Candido M
     <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" height="30" alt="Insomnia" />
 </div>
 
-
-<!-- <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
-  <img width="52" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="52" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="52" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
-  <img width="52" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-</div> -->
+<h3 align="left">Basic understanding</h3>
+<div>
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="Java" />
+    
+</div>
 
 <h2 align="left">Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroPimpao&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroPimpao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=5" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroPimpao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=3" height="150" alt="languages graph"  />
 </div>
