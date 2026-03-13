@@ -41,6 +41,6 @@ Estou cursando Sistemas de Informação (5° Período) na Universidade Candido M
 <h2 align="left">Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroPimpao&show_icons=true&theme=radical" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroPimpao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=3" height="150" alt="languages graph"  />
 </div>
